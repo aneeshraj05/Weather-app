@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", () => {
-  const apiKey = "b156c675f687ab90aadb669f4c929239";
+  const apiKey = "";
   const form = document.querySelector(".weather-container");
   const input = document.getElementById("input");
 
